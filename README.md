@@ -1,6 +1,6 @@
 HELLO! My name is Serhiy.
 I am Beginner Junior Front-End Developer.
-I am 15 years old and I want to be Junior Front-End Developer. 
+I am 16 years old and I want to be Junior Front-End Developer. 
 I was born in Zastavna, Chernivtsi Region, Ukraine.
 In 7 years I went to school, where I still study. Now I'm in 9th grade
 After school I want to work in a large IT company.
