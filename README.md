@@ -13,8 +13,8 @@ I am 16 years old and I`m Full-Stack Web Developer.
 ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ffffff?style=for-the-badge&logo=phpmyadmin)
 
 ## My Porftolio
-  - Portfolio on my website: https://paziuk.github.io
-  - Portfolio on my GitHub: https://github.com/PAZIUK/Mio-Portfolio
+  - My Website-Portfolio: https://paziuk.github.io
+  - My portfolio on my GitHub: https://github.com/PAZIUK/Mio-Portfolio
 
 
 ## Folow Me
