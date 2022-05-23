@@ -1,5 +1,5 @@
 ## HI! My name is Serhiy.
-I am 16 years old and I`m Full-Stack Web Developer.
+I am 16 years old and I`m Full-Stack Web Developer with 2+ years of experience.
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
