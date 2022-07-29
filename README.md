@@ -14,7 +14,7 @@ I am 16 years old and I`m Full-Stack Web Developer with 2+ years of experience.
 
 ## My Porftolio
   - My Website-Portfolio: https://paziuk.github.io
-  - My portfolio on my GitHub: https://github.com/PAZIUK/Mio-Portfolio
+  - My portfolio on my GitHub (portfoilo map): https://github.com/PAZIUK/Mio-Portfolio
 
 
 ## Folow Me
