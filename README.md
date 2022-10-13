@@ -1,4 +1,4 @@
-# HI! I am Paziuk Serhiy.
+# HI! I am Serhiy Paziuk.
 I am 17 years old and I`m Full-Stack Web Developer with 3+ years of experience.
 
 ## Languages and Tools
