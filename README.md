@@ -11,6 +11,7 @@ I am 17 years old and I`m Full-Stack Web Developer with 3+ years of experience.
 ![Laravel](https://img.shields.io/badge/-Laravel-ffffff?style=for-the-badge&logo=laravel)
 ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql)
 ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ffffff?style=for-the-badge&logo=phpmyadmin)
+![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)
 
 ## My Porftolio
   - My Website-Portfolio: https://paziuk.github.io
