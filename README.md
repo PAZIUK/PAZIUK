@@ -1,11 +1,11 @@
 # HI! I am Serhiy Paziuk.
-I am 17 years old and I`m Full-Stack Web Developer with 3+ years of experience.
+I am 17 years old and I'm Full-Stack Web Developer with 3+ years of experience.
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SASS-cf649a?style=for-the-badge&logo=scss)
+![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
