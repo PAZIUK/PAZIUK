@@ -3,6 +3,7 @@ I am 17 years old and I'm Full-Stack Web Developer with 3+ years of experience.
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
+![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)
