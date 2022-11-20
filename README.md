@@ -11,6 +11,7 @@ I am 17 years old and I'm Full-Stack Web Developer with 3+ years of experience.
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
   - ![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)
 ### Back-End (Databases):
+  - ![Python](https://img.shields.io/badge/-Python-04062f?style=for-the-badge&logo=python)
   - ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
   - ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
   - ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)
