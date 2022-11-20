@@ -3,7 +3,7 @@
 My name is Serhiy Paziuk. I am Full-Stack Web Developer. I have been developing websites for 3+ years.<br/>
 My goal is building a responsive website with quality visual look and the maintenance opportunity in future.
 
-## Languages and Tools
+## Languages and Other tools
  - ### Front-End (User Interface):
    - ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
    - ![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)
