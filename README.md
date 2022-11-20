@@ -1,6 +1,6 @@
 # Greetings!
 
-My name is Serhiy Paziuk. I am Full-Stack Web Developer. I have been developing websites for 3+ years. 
+My name is Serhiy Paziuk. I am Full-Stack Web Developer. I have been developing websites for 3+ years.<br/>
 My goal is building a responsive website with quality visual look and the maintenance opportunity in future.
 
 ## Languages and Tools
