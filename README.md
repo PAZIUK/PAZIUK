@@ -1,5 +1,6 @@
-# HI! I am Serhiy Paziuk.
-I am 17 years old and I'm Full-Stack Web Developer with 3+ years of experience.
+# Greetings!
+
+My name is Serhiy Paziuk. I am Full Stack Web Developer. I have been developing websites for 3+ years. My goal is building a responsive site with quality visual look and the maintenance opportunity in future.
 
 ## Languages and Tools
 ### Front-End (User Interface):
