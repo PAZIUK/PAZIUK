@@ -5,10 +5,10 @@ My name is Serhiy Paziuk. I am Full-Stack Web & Python Developer.
 ## Languages and Other tools
  - ### Front-End (User Interface):
    - ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
-   - ![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)
-   - ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)
-   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)
-   - ![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)
+     ![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)
+     ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)
+     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)
+     ![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)
    - ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
    - ![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)
  - ### Back-End (Databases):
@@ -17,6 +17,7 @@ My name is Serhiy Paziuk. I am Full-Stack Web & Python Developer.
    - ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
    - ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
    - ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)
+   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)
    - ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ffffff?style=for-the-badge&logo=phpmyadmin)
  - ### Project management:
    - ![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)
