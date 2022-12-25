@@ -1,6 +1,6 @@
 # Greetings!
 
-My name is Serhiy Paziuk. I am Full-Stack Web & Python Developer.
+My name is Serhii Paziuk. I am Full-Stack Web & Python Developer.
 
 ## Languages and Other tools
    ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
