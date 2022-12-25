@@ -1,7 +1,6 @@
 # Greetings!
 
-My name is Serhiy Paziuk. I am Full-Stack Web Developer. I have been developing websites for 3+ years.<br/>
-My goal is building a responsive website with quality visual look and the maintenance opportunity in future.
+My name is Serhiy Paziuk. I am Full-Stack Web & Python Developer.
 
 ## Languages and Other tools
  - ### Front-End (User Interface):
