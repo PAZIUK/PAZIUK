@@ -27,9 +27,9 @@ My name is Serhii Paziuk. I am Full-Stack Web & Python Developer.
 ## My projects:
 My Website-Portfolio: https://paziuk.github.io <br>
 My portfolio on GitHub: 
- - [Websites](https://github.com/PAZIUK/PAZIUK/edit/main/README.md#websites)
- - [Programs](https://github.com/PAZIUK/PAZIUK/edit/main/README.md#programs)
- - [Games](https://github.com/PAZIUK/PAZIUK/edit/main/README.md#games)
+ - [Websites](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#websites)
+ - [Programs](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#programs)
+ - [Games](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#games)
 
 ## Websites
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
