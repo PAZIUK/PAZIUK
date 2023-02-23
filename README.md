@@ -25,16 +25,13 @@ My name is Serhii Paziuk. I am Full-Stack Web & Python Developer.
    ![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)
    
 ## My projects:
-### My Website-Portfolio: https://paziuk.github.io
-### My portfolio on GitHub: 
-These are my best works ever! <br>
-Not everybody have such incredible portfolio as me! <br><br>
-There are :
- - [Websites]()
- - [Programs]()
- - [Games]()
+My Website-Portfolio: https://paziuk.github.io <br>
+My portfolio on GitHub: 
+ - [Websites](https://github.com/PAZIUK/PAZIUK/edit/main/README.md#websites)
+ - [Programs](https://github.com/PAZIUK/PAZIUK/edit/main/README.md#programs)
+ - [Games](https://github.com/PAZIUK/PAZIUK/edit/main/README.md#games)
 
-### Websites
+## Websites
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
 | :-:                                                                                                                         | :-                          | :-:                                                                                        | :-:                                                                                                 | :-:
 | ![](https://github.com/PAZIUK/TOP-Masonry-Tuckpointing/blob/main/img/favicons/57x57.png)                                    | TOP Masonry&Tuckpointing    | [View website](https://top-masonry.com)                                                    | [GitHub repository](https://github.com/PAZIUK/TOP-Masonry-Tuckpointing)                             | [Stanislavkvv](https://github.com/Stanislavkvv)
@@ -53,7 +50,7 @@ There are :
 | ![](https://paziuk.github.io/Projects/Websites/ILikeThisCars/img/57x57.png)                                                 | ILikeThisCars               | [View website](https://paziuk.github.io/Projects/Websites/ILikeThisCars/index.html)        | [GitHub repository](https://github.com/PAZIUK/ILikeThisCars)                                        | ---
 | ![](https://paziuk.github.io/Projects/Websites/Cybersafe/img/favicon/57x57.png)                                             | Cybersafe                   | [View website](https://paziuk.github.io/Projects/Websites/Cybersafe/index.html)            | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Websites/Cybersafe)       | ---
 
-### Programs
+## Programs
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
 | :-:                                                                                                                         | :-                          | :-:                                                                                        | :-:                                                                                                 | :-:
 | ![](https://paziuk.github.io/Projects/Programs/CubeTimer/img/favicons/apple-touch-icon-57x57-precomposed.png)               | CubeTimer                   | [View web page](https://paziuk.github.io/Projects/Programs/CubeTimer/index.html)           | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Programs/CubeTimer)       | ---
@@ -62,7 +59,7 @@ There are :
 | ![](https://paziuk.github.io/Projects/Programs/ZodiacSign/img/apple-touch-icon-57x57-precomposed.png)                       | Zodiac Sign                 | [View web page](https://paziuk.github.io/Projects/Programs/ZodiacSign/index.html)          | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Programs/ZodiacSign)      | ---
 | ![](https://paziuk.github.io/Projects/Programs/IsItAPalindrome/img/apple-touch-icon-57x57-precomposed.png)                  | Is It A Palindrome          | [View web page](https://paziuk.github.io/Projects/Programs/IsItAPalindrome/index.html)     | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Programs/IsItAPalindrome) | ---
 
-### Games
+## Games
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
 | :-:                                                                                                                         | :-                          | :-:                                                                                        | :-:                                                                                                 | :-:
 | ![](https://paziuk.github.io/Projects/Games/2D-Game-Snake/favicons/57x57.png)                                               | 2D Snake                    | [View web page](https://paziuk.github.io/Projects/Games/2D-Game-Snake/index.html)          | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Games/2D-Game-Snake)      | ---
