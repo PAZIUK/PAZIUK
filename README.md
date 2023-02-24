@@ -49,9 +49,9 @@ The projects can be found in 2 places :
    - My Website-Portfolio -> [paziuk.github.io](https://paziuk.github.io) (There is more visualization)
 
    - My portfolio on GitHub: 
-      - [🌐 Websites](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#websites)
-      - [🤖 Programs](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#programs)
-      - [🎮 Games](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#games)
+      - [🌐 Websites](https://github.com/PAZIUK#-websites)
+      - [🤖 Programs](https://github.com/PAZIUK#-programs)
+      - [🎮 Games](https://github.com/PAZIUK#-games)
 
 ## 🌐 Websites
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
