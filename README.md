@@ -1,6 +1,10 @@
 # Greetings!
 
-My name is Serhii Paziuk. I am Full-Stack Web & Python Developer.
+My name is Serhii Paziuk. I am Full-Stack Software Developer, but I engage in Front-End Web Development.
+
+As a frontend web developer, I am passionate about creating engaging, visually stunning, and user-friendly websites. I have a keen eye for design and a strong understanding of the latest web development technologies, including HTML, CSS, JavaScript and other technologies.
+
+I am constantly seeking new challenges and opportunities to grow my skills and stay current in the rapidly evolving world of web development. Whether it's building a new website from scratch or improving the functionality and usability of an existing site, I am always focused on delivering the best possible user experience.
 
 ## Folow Me
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/paziuk.17)
