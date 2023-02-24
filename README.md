@@ -13,7 +13,7 @@
 
 
 
-# Greetings!
+# 👋 Greetings!
 
 My name is Serhii Paziuk. I am Full-Stack Software Developer, but I engage in Front-End Web Development.
 
@@ -21,36 +21,31 @@ As a frontend web developer, I am passionate about creating engaging, visually s
 
 I am constantly seeking new challenges and opportunities to grow my skills and stay current in the rapidly evolving world of web development. Whether it's building a new website from scratch or improving the functionality and usability of an existing site, I am always focused on delivering the best possible user experience.
 
-## Folow Me
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/paziuk.17)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/paziuk.17)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Paziuk17)
-
-## Languages and Other tools
-   ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
-   ![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)
-   ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)
-   ![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
-   ![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)
-   ![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)
-   ![Django](https://img.shields.io/badge/-Django-0c4b33?style=for-the-badge&logo=django)
-   ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
-   ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
-   ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)
-   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)
-   ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin)
-   ![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)
+## 👨‍💻 Languages and Other tools
+   [![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)](https://paziuk.github.io)
+   [![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)](https://paziuk.github.io)</br>
+   [![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)](https://paziuk.github.io)
+   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)
+   [![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)](https://paziuk.github.io)</br>
+   [![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
+   [![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)](https://paziuk.github.io)</br>
+   [![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)](https://paziuk.github.io)
+   [![Django](https://img.shields.io/badge/-Django-0c4b33?style=for-the-badge&logo=django)](https://paziuk.github.io)</br>
+   [![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
+   [![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)](https://paziuk.github.io)</br>
+   [![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)](https://paziuk.github.io)
+   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)](https://paziuk.github.io)
+   [![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin)](https://paziuk.github.io)</br>
+   [![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)](https://paziuk.github.io)
    
-## My projects:
+## 🗂️ Projects
 My Website-Portfolio: https://paziuk.github.io <br>
 My portfolio on GitHub: 
  - [Websites](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#websites)
  - [Programs](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#programs)
  - [Games](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#games)
 
-## Websites
+## 🌐 Websites
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
 | :-:                                                                                                                         | :-                          | :-:                                                                                        | :-:                                                                                                 | :-:
 | ![](https://github.com/PAZIUK/TOP-Masonry-Tuckpointing/blob/main/img/favicons/57x57.png)                                    | TOP Masonry&Tuckpointing    | [View website](https://top-masonry.com)                                                    | [GitHub repository](https://github.com/PAZIUK/TOP-Masonry-Tuckpointing)                             | [Stanislavkvv](https://github.com/Stanislavkvv)
@@ -69,7 +64,7 @@ My portfolio on GitHub:
 | ![](https://paziuk.github.io/Projects/Websites/ILikeThisCars/img/57x57.png)                                                 | ILikeThisCars               | [View website](https://paziuk.github.io/Projects/Websites/ILikeThisCars/index.html)        | [GitHub repository](https://github.com/PAZIUK/ILikeThisCars)                                        | ---
 | ![](https://paziuk.github.io/Projects/Websites/Cybersafe/img/favicon/57x57.png)                                             | Cybersafe                   | [View website](https://paziuk.github.io/Projects/Websites/Cybersafe/index.html)            | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Websites/Cybersafe)       | ---
 
-## Programs
+## 🤖 Programs
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
 | :-:                                                                                                                         | :-                          | :-:                                                                                        | :-:                                                                                                 | :-:
 | ![](https://paziuk.github.io/Projects/Programs/CubeTimer/img/favicons/apple-touch-icon-57x57-precomposed.png)               | CubeTimer                   | [View web page](https://paziuk.github.io/Projects/Programs/CubeTimer/index.html)           | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Programs/CubeTimer)       | ---
@@ -78,7 +73,7 @@ My portfolio on GitHub:
 | ![](https://paziuk.github.io/Projects/Programs/ZodiacSign/img/apple-touch-icon-57x57-precomposed.png)                       | Zodiac Sign                 | [View web page](https://paziuk.github.io/Projects/Programs/ZodiacSign/index.html)          | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Programs/ZodiacSign)      | ---
 | ![](https://paziuk.github.io/Projects/Programs/IsItAPalindrome/img/apple-touch-icon-57x57-precomposed.png)                  | Is It A Palindrome          | [View web page](https://paziuk.github.io/Projects/Programs/IsItAPalindrome/index.html)     | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Programs/IsItAPalindrome) | ---
 
-## Games
+## 🎮 Games
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
 | :-:                                                                                                                         | :-                          | :-:                                                                                        | :-:                                                                                                 | :-:
 | ![](https://paziuk.github.io/Projects/Games/2D-Game-Snake/favicons/57x57.png)                                               | 2D Snake                    | [View web page](https://paziuk.github.io/Projects/Games/2D-Game-Snake/index.html)          | [View code](https://github.com/PAZIUK/PAZIUK.github.io/tree/main/Projects/Games/2D-Game-Snake)      | ---
