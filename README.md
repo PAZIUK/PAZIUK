@@ -9,12 +9,7 @@
 
 ---
 
-
-
-
-
 # 👋 Greetings!
-
 My name is Serhii Paziuk. I am Full-Stack Software Developer, but I engage in Front-End Web Development.
 
 As a frontend web developer, I am passionate about creating engaging, visually stunning, and user-friendly websites. I have a keen eye for design and a strong understanding of the latest web development technologies, including HTML, CSS, JavaScript and other technologies.
@@ -46,7 +41,7 @@ Projects can vary from creating a custom website or web application to developin
 Through my projects, I can showcase my creativity, problem-solving skills, and attention to detail. These projects not only serve as evidence of my technical abilities but also demonstrate my ability to work effectively in a team and deliver quality results on time and within budget.
 
 The projects can be found in 2 places :
-   - My Website-Portfolio -> [paziuk.github.io](https://paziuk.github.io) (There is more visualization)
+   - My Website-Portfolio -> <a href="https://paziuk.github.io" target="_blank">paziuk.github.io</a> (There is more visualization)
 
    - My portfolio on GitHub: 
       - [🌐 Websites](https://github.com/PAZIUK#-websites)
