@@ -1,3 +1,18 @@
+[![](https://PAZIUK.github.io/Vendor/Images/Media/GreetingsOnGitHub.png)](https://github.com/PAZIUK?tab=repositories)
+
+<p align="center">
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnVVPprBShKZbHmZJbgSZbcRXHPbrpKHrsJdpdWlwdZfjMtSPKgPhKfzBPXvxqCCQxsNx"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"></a>
+   <a href="https://www.facebook.com/paziuk.17"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook"></a>
+   <a href="https://www.instagram.com/paziuk.17"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram"></a> 
+   <a href="https://t.me/Paziuk17"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"></a>
+</p>
+
+---
+
+
+
+
+
 # Greetings!
 
 My name is Serhii Paziuk. I am Full-Stack Software Developer, but I engage in Front-End Web Development.
