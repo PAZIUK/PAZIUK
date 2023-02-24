@@ -39,11 +39,19 @@ I am constantly seeking new challenges and opportunities to grow my skills and s
    [![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)](https://paziuk.github.io)
    
 ## 🗂️ Projects
-My Website-Portfolio: https://paziuk.github.io <br>
-My portfolio on GitHub: 
- - [Websites](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#websites)
- - [Programs](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#programs)
- - [Games](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#games)
+The projects showcase my skills and abilities in the field of web development. These projects demonstrate my expertise in designing, developing, and delivering web-based solutions that meet the needs of clients and end-users.
+
+Projects can vary from creating a custom website or web application to developing e-commerce platforms, content management systems, and mobile applications. Each project requires careful planning, collaboration with team members, and a deep understanding of the latest web development technologies.
+
+Through my projects, I can showcase my creativity, problem-solving skills, and attention to detail. These projects not only serve as evidence of my technical abilities but also demonstrate my ability to work effectively in a team and deliver quality results on time and within budget.
+
+The projects can be found in 2 places :
+   - My Website-Portfolio -> [paziuk.github.io](https://paziuk.github.io) (There is more visualization)
+
+   - My portfolio on GitHub: 
+      - [🌐 Websites](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#websites)
+      - [🤖 Programs](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#programs)
+      - [🎮 Games](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#games)
 
 ## 🌐 Websites
 | Icon                                                                                                                        | Name                        | Web link                                                                                   | GitHub link                                                                                         | Collaborators                     
