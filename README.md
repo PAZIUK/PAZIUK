@@ -26,27 +26,27 @@ With the rapid pace of technological advancements, new web technologies are cons
 
    - <h4>Front-end development:</h4>
 
-   &emsp;&emsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)](https://paziuk.github.io)
    [![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)](https://paziuk.github.io)</br>
-   &emsp;&emsp;&nbsp;[![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)](https://paziuk.github.io)
    [![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)](https://paziuk.github.io)
    [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)</br>
-   &emsp;&emsp;&nbsp;[![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
    [![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
    
    - <h4>Back-end development:</h4>
    
-   &emsp;&emsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)](https://paziuk.github.io)
    [![Django](https://img.shields.io/badge/-Django-0c4b33?style=for-the-badge&logo=django)](https://paziuk.github.io)</br>
-   &emsp;&emsp;&nbsp;[![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
    [![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)](https://paziuk.github.io)</br>
-   &emsp;&emsp;&nbsp;[![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)](https://paziuk.github.io)
    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)](https://paziuk.github.io)
    [![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin)](https://paziuk.github.io)
    
    - <h4>Project management:</h4>
    
-   &emsp;&emsp;&nbsp;[![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)](https://paziuk.github.io)
    
 <h2>🗂️ Projects</h2>
 
