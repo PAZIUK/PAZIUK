@@ -29,8 +29,8 @@ With the rapid pace of technological advancements, new web technologies are cons
    &emsp;&emsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)](https://paziuk.github.io)
    [![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)](https://paziuk.github.io)</br>
    &emsp;&emsp;&nbsp;[![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)](https://paziuk.github.io)
-   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)
-   [![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)](https://paziuk.github.io)</br>
+   [![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)](https://paziuk.github.io)
+   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)</br>
    &emsp;&emsp;&nbsp;[![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
    [![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
    
