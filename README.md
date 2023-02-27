@@ -1,7 +1,7 @@
 [![](https://PAZIUK.github.io/Vendor/Images/Media/GreetingsOnGitHub_2.png)](https://github.com/PAZIUK?tab=repositories)
 
 <p align="center">
-   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnVVPprBShKZbHmZJbgSZbcRXHPbrpKHrsJdpdWlwdZfjMtSPKgPhKfzBPXvxqCCQxsNx"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"></a>
+   <a href="mailto:paz.serhiy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"></a>
    <a href="https://t.me/Paziuk17"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"></a>
    <a href="https://www.linkedin.com/in/paziuk"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin"></a>
    <a href="https://www.facebook.com/paziuk.17"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook"></a>
