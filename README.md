@@ -33,8 +33,8 @@ With the rapid pace of technological advancements, new web technologies are cons
    [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)
    [![Tailwind](https://img.shields.io/badge/-Tailwind-01b7d6?style=for-the-badge&logo=tailwind)](https://paziuk.github.io)
    [![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
-   [![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
    [![ReactJS](https://img.shields.io/badge/-React.JS-ffffff?style=for-the-badge&logo=react)](https://paziuk.github.io)
+   [![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
    
    - <h4>Back-end development:</h4>
    
