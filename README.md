@@ -38,13 +38,13 @@ With the rapid pace of technological advancements, new web technologies are cons
    
    - <h4>Back-end development:</h4>
    
-   &emsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)](https://paziuk.github.io)
-   [![Django](https://img.shields.io/badge/-Django-0c4b33?style=for-the-badge&logo=django)](https://paziuk.github.io)
-   [![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
    [![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)](https://paziuk.github.io)
    [![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)](https://paziuk.github.io)
-   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)](https://paziuk.github.io)
    [![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin)](https://paziuk.github.io)
+<!--    [![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)](https://paziuk.github.io) -->
+<!--    [![Django](https://img.shields.io/badge/-Django-0c4b33?style=for-the-badge&logo=django)](https://paziuk.github.io) -->
+<!--    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)](https://paziuk.github.io) -->
    
    - <h4>Project management:</h4>
    
