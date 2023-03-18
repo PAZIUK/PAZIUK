@@ -26,19 +26,21 @@ With the rapid pace of technological advancements, new web technologies are cons
 
    - <h4>Front-end development:</h4>
 
-   &emsp;&nbsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-1d102b?style=for-the-badge&logo=html5)](https://paziuk.github.io)
    [![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)](https://paziuk.github.io)
-   [![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)](https://paziuk.github.io)
-   [![SCSS](https://img.shields.io/badge/-SASS/SCSS-264de4?style=for-the-badge&logo=sass)](https://paziuk.github.io)
-   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)
-   [![Tailwind](https://img.shields.io/badge/-Tailwind-01b7d6?style=for-the-badge&logo=tailwind)](https://paziuk.github.io)
-   [![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
-   [![ReactJS](https://img.shields.io/badge/-React.JS-ffffff?style=for-the-badge&logo=react)](https://paziuk.github.io)
-   [![JQuery](https://img.shields.io/badge/-JQuery-264de4?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
+   [![CSS3](https://img.shields.io/badge/-CSS3-1a1a33?style=for-the-badge&logo=css3)](https://paziuk.github.io)
+   [![SCSS](https://img.shields.io/badge/-SASS/SCSS-000000?style=for-the-badge&logo=sass)](https://paziuk.github.io)
+   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-212529?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)
+   [![Tailwind](https://img.shields.io/badge/-Tailwind-0b1120?style=for-the-badge&logo=tailwind-css)](https://paziuk.github.io)
+   [![JavaScript](https://img.shields.io/badge/-JavaScript-2f302e?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
+   [![JQuery](https://img.shields.io/badge/-JQuery-0769ad?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
+   [![ReactJS](https://img.shields.io/badge/-React.JS-23272f?style=for-the-badge&logo=react)](https://paziuk.github.io)
+   [![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript)](https://paziuk.github.io)
    
    - <h4>Back-end development:</h4>
    
-   &emsp;&nbsp;&nbsp;[![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
+   &emsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-f7cd00?style=for-the-badge&logo=python)](https://paziuk.github.io)
+   [![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
    [![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)](https://paziuk.github.io)
    [![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)](https://paziuk.github.io)
    [![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin)](https://paziuk.github.io)
