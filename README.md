@@ -12,7 +12,7 @@
 
 <h1>👋 Greetings!</h1>
 
-I am Serhii Paziuk and I am Full-Stack Software Developer. Since I was 13 years old teenager I have been crazy about developing everything that can help me or people to make our world better and better. And through more than [20 projects](https://github.com/PAZIUK#%EF%B8%8F-projects) I worked with, I can say that I had completed my mission. Most of all I am proud of that I developed website for my school, because there was a problem which I solved using [web development technologies](https://github.com/PAZIUK#the-technologies-i-have-been-using-for). And more than 500 students and 40 teachers were grateful to me.
+I am Serhii Paziuk and I am Full-Stack Software Developer. Since I was 13 years old teenager I have been crazy about developing everything that can help me or people to make our world better and better. And over [several projects](https://github.com/PAZIUK#%EF%B8%8F-projects) I worked with, I can say that I had completed my mission. Most of all I am proud of that I developed website for my school, because there was a problem which I solved using [web development technologies](https://github.com/PAZIUK#the-technologies-i-have-been-using-for). And more than 500 students and 40 teachers were grateful to me.
 
 Now I am constantly seeking new challenges and opportunities to grow my skills and stay current in the rapidly evolving world of web development. Whether it's building a new website from scratch or improving the functionality and usability of an existing site, I am always focused on delivering the best possible user experience.
 
