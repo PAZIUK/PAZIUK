@@ -1,20 +1,30 @@
 [![](https://PAZIUK.github.io/Vendor/Images/Media/GreetingsOnGitHub_2.png)](https://github.com/PAZIUK?tab=repositories)
 
 <p align="center">
-   <a href="mailto:paz.serhiy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"></a>
-   <a href="https://t.me/Paziuk17"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"></a>
-   <a href="https://www.linkedin.com/in/paziuk"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin"></a>
-   <a href="https://www.facebook.com/paziuk.17"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook"></a>
-   <a href="https://www.instagram.com/paziuk.17"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram"></a> 
+   <a href="mailto:paz.serhiy@gmail.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail">
+   </a>
+   <a href="https://t.me/Paziuk17" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram">
+   </a>
+   <a href="https://www.linkedin.com/in/paziuk" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin">
+   </a>
+   <a href="https://www.facebook.com/paziuk.17" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook">
+   </a>
+   <a href="https://www.instagram.com/paziuk.17" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram">
+   </a> 
 </p>
 
 ---
 
 <h1>👋 Greetings!</h1>
 
-I am Serhii Paziuk and I am Full-Stack Software Developer. Since I was 13 years old teenager I have been crazy about developing everything that can help me or people to make our world better and better. And over [several projects](https://github.com/PAZIUK#%EF%B8%8F-projects) I worked with, I can say that I had completed my mission. Most of all I am proud of that I developed website for my school, because there was a problem which I solved using [web development technologies](https://github.com/PAZIUK#the-technologies-i-have-been-using-for). And more than 500 students and 40 teachers were grateful to me.
+I am Serhii Paziuk and I am Full-Stack Software Developer. Since I was 13 years old teenager I have been crazy about developing everything that can help me or people to make our world better and better. And over [several projects](https://github.com/PAZIUK#%EF%B8%8F-projects) I worked with, I can say that I had completed my mission. Most of all I am proud of that I developed a website for my school, because there was a problem which I solved using [web development technologies](https://github.com/PAZIUK#the-technologies-i-have-been-using-for). And more than 500 students and 40 teachers were grateful to me.
 
-Now I am constantly seeking new challenges and opportunities to grow my skills and stay current in the rapidly evolving world of web development. Whether it's building a new website from scratch or improving the functionality and usability of an existing site, I am always focused on delivering the best possible user experience.
+Now I am constantly seeking new challenges and opportunities to grow my skills and stay current in the rapidly evolving world of web development. Whether it's building a new website from scratch or improving the functionality and usability of an existing website, I am always focused on delivering the best possible user experience.
 
 <h2>👨‍💻 Languages and Other tools</h2>
 
@@ -25,32 +35,55 @@ With the rapid pace of technological advancements, new web technologies are cons
 <h3>The technologies I have been using for:</h3>
 
    - <h4>Front-end development:</h4>
+   <p align="left">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+      </a>
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+      </a> 
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+      </a> 
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      </a> 
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+      </a> 
+   </p>
 
-   &emsp;&nbsp;&nbsp;[![HTML5](https://img.shields.io/badge/-HTML5-1d102b?style=for-the-badge&logo=html5)](https://paziuk.github.io)
-   [![BEM](https://img.shields.io/badge/-BEM-052534?style=for-the-badge&logo=bem)](https://paziuk.github.io)
-   [![CSS3](https://img.shields.io/badge/-CSS3-1a1a33?style=for-the-badge&logo=css3)](https://paziuk.github.io)
-   [![SCSS](https://img.shields.io/badge/-SASS/SCSS-000000?style=for-the-badge&logo=sass)](https://paziuk.github.io)
-   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-212529?style=for-the-badge&logo=bootstrap)](https://paziuk.github.io)
-   [![Tailwind](https://img.shields.io/badge/-Tailwind-0b1120?style=for-the-badge&logo=tailwind-css)](https://paziuk.github.io)
-   [![JavaScript](https://img.shields.io/badge/-JavaScript-2f302e?style=for-the-badge&logo=javascript)](https://paziuk.github.io)
-   [![JQuery](https://img.shields.io/badge/-JQuery-0769ad?style=for-the-badge&logo=jquery)](https://paziuk.github.io)
-   [![ReactJS](https://img.shields.io/badge/-React.JS-23272f?style=for-the-badge&logo=react)](https://paziuk.github.io)
-   [![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript)](https://paziuk.github.io)
-   
    - <h4>Back-end development:</h4>
-   
-   &emsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-f7cd00?style=for-the-badge&logo=python)](https://paziuk.github.io)
-   [![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)](https://paziuk.github.io)
-   [![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)](https://paziuk.github.io)
-   [![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)](https://paziuk.github.io)
-   [![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin)](https://paziuk.github.io)
-<!--    [![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)](https://paziuk.github.io) -->
-<!--    [![Django](https://img.shields.io/badge/-Django-0c4b33?style=for-the-badge&logo=django)](https://paziuk.github.io) -->
-<!--    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)](https://paziuk.github.io) -->
+   <p align="left"> 
+      <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+      </a> 
+   </p>
    
    - <h4>Project management:</h4>
-   
-   &emsp;&nbsp;&nbsp;[![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)](https://paziuk.github.io)
+   <p align="left"> 
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+      </a>
+   </p>
    
 <h2>🗂️ Projects</h2>
 
