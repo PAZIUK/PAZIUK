@@ -4,9 +4,6 @@
    <a href="mailto:paz.serhiy@gmail.com" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail">
    </a>
-   <a href="https://t.me/Paziuk_Serhii" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram">
-   </a>
    <a href="https://www.linkedin.com/in/paziuk" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin">
    </a>
