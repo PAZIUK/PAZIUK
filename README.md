@@ -7,7 +7,7 @@
    <a href="https://www.linkedin.com/in/paziuk" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin">
    </a>
-   <a href="https://www.facebook.com/paziuk.tech" target="_blank" rel="noreferrer">
+   <a href="https://www.facebook.com/paziuk.official" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook">
    </a>
    <a href="https://www.instagram.com/paziuk.official" target="_blank" rel="noreferrer">
