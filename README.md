@@ -1,15 +1,20 @@
 [![](https://paziuk.com/public/assets/images/media/GitHubBannerRounded.png)](https://github.com/PAZIUK?tab=repositories)
 
+<!-- Social icons section -->
 <p align="center">
-   <a href="https://www.linkedin.com/in/paziuk" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin">
-   </a>
-   <a href="https://www.facebook.com/paziuk.official" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook">
-   </a>
-   <a href="https://www.instagram.com/paziuk.official" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram">
-   </a> 
+   <a href="https://paziuk.com"><img width="55px" alt="Website" title="Website" src="https://paziuk.com/public/assets/images/media/Website.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.linkedin.com/in/paziuk/"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://paziuk.com/public/assets/images/media/Linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.instagram.com/paziuk.official"><img width="47px" alt="Instagram" title="Instagram" src="https://paziuk.com/public/assets/images/media/Instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.youtube.com/@paziuk.official"><img width="64px" alt="Youtube" title="Youtube" src="https://paziuk.com/public/assets/images/media/Youtube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.tiktok.com/@paziuk.official"><img width="50px" alt="TikTok" title="TikTok" src="https://paziuk.com/public/assets/images/media/TikTok.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.facebook.com/paziuk.official"><img width="50px" alt="Facebook" title="Facebook" src="https://paziuk.com/public/assets/images/media/Facebook.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://x.com/paziuk_official"><img width="48px" alt="Twitter" title="Twitter" src="https://paziuk.com/public/assets/images/media/X.png"/></a>
 </p>
 
 ---
