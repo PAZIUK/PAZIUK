@@ -98,6 +98,9 @@ Through my projects, I can showcase my creativity, problem-solving skills, and a
    
 &emsp;&emsp;&nbsp;[![](https://img.shields.io/badge/-paziuk.com-0a0919?style=for-the-badge)](https://paziuk.com)
 
+
+
+<!--
    - <h4>My portfolio on GitHub:</h4> 
    
       - [🌐 Websites](https://github.com/PAZIUK#-websites)
@@ -144,3 +147,6 @@ Through my projects, I can showcase my creativity, problem-solving skills, and a
 | ![](https://paziuk.com/Projects/Games/Tic-Tac-Toe/img/57x57.png)                                                      | Tic Tac Toe                 | [View web page](https://paziuk.com/Projects/Games/Tic-Tac-Toe/index.html)            | [View code](https://github.com/PAZIUK/paziuk.com/tree/main/Projects/Games/Tic-Tac-Toe)        | ---
 | ![](https://paziuk.com/Projects/Games/Clicker-Game/img/favicons/57x57.png)                                            | Clicker Game                | [View web page](https://paziuk.com/Projects/Games/Clicker-Game/index.html)           | [View code](https://github.com/PAZIUK/paziuk.com/tree/main/Projects/Games/Clicker-Game)       | ---
 | ![](https://paziuk.com/Projects/Games/What-A-Number/img/favicons/57x57.png)                                           | What A Number               | [View web page](https://paziuk.com/Projects/Games/What-A-Number/index.html)          | [View code](https://github.com/PAZIUK/paziuk.com/tree/main/Projects/Games/What-A-Number)      | ---
+
+
+-->
