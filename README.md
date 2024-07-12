@@ -1,4 +1,4 @@
-[![](https://paziuk.com/public/assets/images/media/GreetingsOnGitHub.png)](https://github.com/PAZIUK?tab=repositories)
+[![](https://paziuk.com/public/assets/images/media/GitHubBanner.png)](https://github.com/PAZIUK?tab=repositories)
 
 <p align="center">
    <a href="https://www.linkedin.com/in/paziuk" target="_blank" rel="noreferrer">
