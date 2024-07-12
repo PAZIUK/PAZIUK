@@ -2,7 +2,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://paziuk.com"><img width="40px" alt="Website" title="Website" src="https://paziuk.com/public/assets/images/media/Website.png"/></a>
+   <a href="https://paziuk.com" target="_blank"><img width="40px" alt="Website" title="Website" src="https://paziuk.com/public/assets/images/media/Website.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.linkedin.com/in/paziuk/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://paziuk.com/public/assets/images/media/Linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
