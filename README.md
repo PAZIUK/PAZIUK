@@ -1,9 +1,6 @@
-[![](https://paziuk.com/Vendor/Images/Media/GreetingsOnGitHub_2.png)](https://github.com/PAZIUK?tab=repositories)
+[![](https://paziuk.com/public/assets/images/media/GreetingsOnGitHub.png)](https://github.com/PAZIUK?tab=repositories)
 
 <p align="center">
-   <a href="mailto:paz.serhiy@gmail.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail">
-   </a>
    <a href="https://www.linkedin.com/in/paziuk" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin">
    </a>
