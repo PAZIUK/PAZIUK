@@ -8,13 +8,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.instagram.com/paziuk.official"><img width="35px" alt="Instagram" title="Instagram" src="https://paziuk.com/public/assets/images/media/Instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.youtube.com/@paziuk.official"><img width="50px" alt="Youtube" title="Youtube" src="https://paziuk.com/public/assets/images/media/Youtube.png"/></a>
+   <!-- <a href="https://www.youtube.com/@paziuk.official"><img width="50px" alt="Youtube" title="Youtube" src="https://paziuk.com/public/assets/images/media/Youtube.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.tiktok.com/@paziuk.official"><img width="38px" alt="TikTok" title="TikTok" src="https://paziuk.com/public/assets/images/media/Tiktok.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.facebook.com/paziuk.official"><img width="38px" alt="Facebook" title="Facebook" src="https://paziuk.com/public/assets/images/media/Facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://x.com/paziuk_official"><img width="37px" alt="Twitter" title="Twitter" src="https://paziuk.com/public/assets/images/media/X.png"/></a>
+   <!-- <a href="https://x.com/paziuk_official"><img width="37px" alt="Twitter" title="Twitter" src="https://paziuk.com/public/assets/images/media/X.png"/></a> -->
 </p>
 
 ---
