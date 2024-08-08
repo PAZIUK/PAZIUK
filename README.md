@@ -34,7 +34,7 @@ Web technologies refer to the software and programming languages used to create 
 
 With the rapid pace of technological advancements, new web technologies are constantly emerging. These advancements are expanding the possibilities for creating even more immersive and interactive web experiences, paving the way for exciting opportunities in web development.
 
-<h3>The technologies I have been using for:</h3>
+<h3>The technologies I've been using for:</h3>
 
    - <h4>Front-end development:</h4>
    <p align="left">
@@ -95,7 +95,7 @@ Projects can vary from creating a custom website or web application to developin
 
 Through my projects, I can showcase my creativity, problem-solving skills, and attention to detail. These projects not only serve as evidence of my technical abilities but also demonstrate my ability to work effectively in a team and deliver quality results on time and within budget.
 
-<h3> The projects can be found in 2 places : </h3>
+<h3> The projects can be found in 2 places: </h3>
 
    - <h4>My Website-Portfolio</h4> 
    
